@@ -1,0 +1,4 @@
+﻿method,sample_size,population_mean,sample_mean,mean_error,population_variance,sample_variance,variance_error,total_error
+systematic,60,2.998279,3.039333,0.041055,1.914455,1.958325,0.04387,0.084925
+stratified_by_day,60,2.998279,3.056833,0.058555,1.914455,2.539191,0.624737,0.683292
+simple_random,60,2.998279,2.714833,0.283445,1.914455,1.277473,0.636982,0.920427
